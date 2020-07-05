@@ -19,7 +19,7 @@
 - Disadvange
  - However, it is not possible to bookmark the page, as the submitted values are not visible.
  
-**GET should NEVER be used for sending passwords or other sensitive information!
-When using POST or GET, proper validation of form data through filtering and processing is vitally important to protect your form from hackers and exploits!
+**GET should NEVER be used for sending passwords or other sensitive information!**
+**When using POST or GET, proper validation of form data through filtering and processing is vitally important to protect your form from hackers and exploits!
 **
 
