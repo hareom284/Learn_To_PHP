@@ -25,3 +25,7 @@
 - [ ] SESSION AND COKKIE
 
 - [ ] Working with files
+
+#  Inheritance 
+- className extends secondclassName
+
