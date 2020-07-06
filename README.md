@@ -22,5 +22,6 @@
 **GET should NEVER be used for sending passwords or other sensitive information!**
 **When using POST or GET, proper validation of form data through filtering and processing is vitally important to protect your form from hackers and exploits!**
 
-[]SESSION AND COKKIE
-[]Working with files
+[ ] SESSION AND COKKIE
+
+[ ] Working with files
