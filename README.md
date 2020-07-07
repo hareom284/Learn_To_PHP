@@ -28,4 +28,5 @@
 
 #  Inheritance 
 - className extends secondclassName
+# Load Class Automatically
 
