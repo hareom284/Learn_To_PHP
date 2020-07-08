@@ -30,5 +30,5 @@
 - className extends secondclassName
 # Load Class Automatically
 
-https://websitebeaver.com/php-pdo-vs-mysqli - automatic!
-[The different between PDO and mySQli ](https://websitebeaver.com/php-pdo-vs-mysqli)
+
+## [The different between PDO and mySQli ](https://websitebeaver.com/php-pdo-vs-mysqli)
